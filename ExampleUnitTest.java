@@ -1,9 +1,5 @@
-package global.z5.com.z5_android;
-
 import org.junit.Test;
-
 import static org.junit.Assert.*;
-
 /**
  * Example local unit test, which will execute on the development machine (host).
  *
